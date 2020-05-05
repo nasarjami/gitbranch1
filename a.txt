@@ -6,4 +6,4 @@ this is the sec term developer usingits fifth time developer changing
 >>>>>>> dev1
 hi i am using another developer called dev2
 i have master 
-i have dev1 can we auto refresh in jankinf while changing in master
+i have dev1 can we auto refresh in jankinf while changing in mastertesting
